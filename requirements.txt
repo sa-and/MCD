@@ -1,0 +1,17 @@
+causaldag==0.1a163
+causalnex==0.9.1
+cdt==0.5.23
+dill==0.3.4
+gym==0.21.0
+matplotlib==3.5.1
+networkx==2.6.3
+numpy==1.21.5
+pandas==1.1.5
+python_igraph==0.10.4
+scikit_learn==1.2.1
+scipy==1.7.3
+seaborn==0.11.2
+setuptools==58.0.4
+stable_baselines==2.10.1
+torch==1.12.1+cu116
+tqdm==4.62.3
