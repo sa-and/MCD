@@ -1,4 +1,0 @@
-NN layer sizes: 64, 64, lstm 128, action, value 32 each
-episode length: 20
-training data: linear additive environments, 200 graphs with 10 SCMs each held out 
-evaluation: first 70 held-out scms 

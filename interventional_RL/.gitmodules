@@ -1,9 +1,0 @@
-[submodule "benchmarking/third_party/ENCO"]
-	path = benchmarking/third_party/ENCO
-	url = https://github.com/phlippe/ENCO.git
-[submodule "benchmarking/third_party/dcdi"]
-	path = benchmarking/third_party/dcdi
-	url = https://github.com/slachapelle/dcdi.git
-[submodule "benchmarking/third_party/notears"]
-	path = benchmarking/third_party/notears
-	url = https://github.com/xunzheng/notears.git
