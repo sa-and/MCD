@@ -32,14 +32,13 @@ python gen_data.py --n-graphs 1000 --scms-per-graph 10 --save-dir PATH\5en_0ex_1
 ## Referencing
 This code implements the algorithm of "A Meta-Reinforcement Learning Algorithm for Causal Discovery" by Andreas Sauter, Erman Acar, Vincent François-Lavet, 2022. If you are using this code, please reference
 ```
-@misc{sauter22meta,
-  doi = {10.48550/ARXIV.2207.08457},  
-  url = {https://arxiv.org/abs/2207.08457},  
-  author = {Sauter, Andreas and Acar, Erman and François-Lavet, Vincent},    
-  title = {A Meta-Reinforcement Learning Algorithm for Causal Discovery},  
-  publisher = {arXiv},  
-  year = {2022},  
-  copyright = {Creative Commons Attribution Share Alike 4.0 International}
+@inproceedings{sauter2023meta,
+  title={A meta-reinforcement learning algorithm for causal discovery},
+  author={Sauter, Andreas WM and Acar, Erman and Fran{\c{c}}ois-Lavet, Vincent},
+  booktitle={Conference on Causal Learning and Reasoning},
+  pages={602--619},
+  year={2023},
+  organization={PMLR}
 }
 ```
 
